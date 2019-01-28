@@ -11,6 +11,7 @@ var config = {
 		filename: "bundle.js",
 		publicPath: "/app/"
 	},
+	mode: "development",
 	module: {
 		rules: [
 			{
